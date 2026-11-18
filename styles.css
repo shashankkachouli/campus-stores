@@ -263,6 +263,11 @@ body > main {
   background: var(--ok);
   color: var(--oktxt);
 }
+#campus-stores .warn {
+  background: #fde8e8;
+  color: #9b1c1c;
+  font-weight: 600;
+}
 #campus-stores .record {
   margin-top: 14px;
   padding: 12px 13px;
